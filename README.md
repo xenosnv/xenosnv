@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FF2E4D" alt="Next.js" />
@@ -44,9 +44,9 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xenosnv&show_icons=true&theme=dark&title_color=FF2E4D&text_color=ffffff&icon_color=FF2E4D&bg_color=0d1117&border_color=E50914" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenosnv&layout=compact&theme=dark&title_color=FF2E4D&text_color=ffffff&icon_color=FF2E4D&bg_color=0d1117&border_color=E50914" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xenosnv&show_icons=true&theme=dark&title_color=FF2E4D&icon_color=FF2E4D&text_color=ffffff&bg_color=0d1117&border_color=E50914" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenosnv&layout=compact&theme=dark&title_color=FF2E4D&icon_color=FF2E4D&text_color=ffffff&bg_color=0d1117&border_color=E50914" alt="Top Languages" />
 </div>
