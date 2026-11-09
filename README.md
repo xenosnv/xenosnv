@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-<!-- 2. Typing Animation Title (Kustom Red Theme) -->
+<!-- 2. Typing Animation Title -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF2E4D&center=true&vCenter=true&width=600&height=50&lines=MOCH+NAUFAL+AR+KARIM;FULL-STACK+WEB+DEVELOPER" alt="Typing Header" />
 </a>
@@ -47,6 +47,6 @@
 ### GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xenosnv&show_icons=true&theme=dark&title_color=FF2E4D&icon_color=FF2E4D&text_color=ffffff&bg_color=0d1117&border_color=E50914" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenosnv&layout=compact&theme=dark&title_color=FF2E4D&icon_color=FF2E4D&text_color=ffffff&bg_color=0d1117&border_color=E50914" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xenosnv&show_icons=true&theme=dark&title_color=FF2E4D&icon_color=FF2E4D&text_color=ffffff&bg_color=0d1117&border_color=E50914" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xenosnv&layout=compact&theme=dark&title_color=FF2E4D&icon_color=FF2E4D&text_color=ffffff&bg_color=0d1117&border_color=E50914" alt="Top Languages" />
 </div>
