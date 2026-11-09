@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-<!-- 2. Typing Animation Title (Kustom Red Theme) -->
+<!-- 2. Typing Animation Title -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF2E4D&center=true&vCenter=true&width=600&height=50&lines=MOCH+NAUFAL+AR+KARIM;FULL-STACK+WEB+DEVELOPER" alt="Typing Header" />
 </a>
@@ -17,14 +17,7 @@
 </p>
 
 <!-- 3. Social & Contact Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/mochnaufalarkarim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mochnaufalarkarim@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF2E4D" alt="Gmail" />
-  </a>
-</p>
+<p align="center"><a href="https://linkedin.com/in/mochnaufalarkarim" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:mochnaufalarkarim@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF2E4D" alt="Gmail" /></a> <a href="https://www.instagram.com/xenos.nv/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Instagram-E50914?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://www.tiktok.com/@xenosvn" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=FF2E4D" alt="TikTok" /></a></p>
 
 </div>
 
