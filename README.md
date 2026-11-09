@@ -47,11 +47,9 @@
 ### GitHub Analytics
 
 <div align="center">
-  <!-- Activity Graph via Ashutosh00710 (Alternative Mirror) -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xenosnv&theme=github-dark&bg_color=0D1117&color=FF2E4D&line=E50914&point=FFFFFF" alt="Activity Graph" />
-
+  <br/>
+  <img src="https://img.shields.io/github/followers/xenosnv?label=FOLLOWERS&style=for-the-badge&color=FF2E4D&labelColor=0D1117" alt="Followers" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPER-E50914?style=for-the-badge&labelColor=0D1117" alt="Status" />
+  <img src="https://img.shields.io/badge/LOCATION-BANDUNG%2C%20ID-FF2E4D?style=for-the-badge&labelColor=0D1117" alt="Location" />
   <br/><br/>
-
-  <!-- GitHub Metrics Summary Card (Sangat Stabil) -->
-  <img src="https://metrics.lecoq.io/xenosnv?template=classic&config.timezone=Asia%2FJakarta" alt="Metrics" width="100%" />
 </div>
