@@ -46,6 +46,6 @@
 ### GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=dark&title_color=FF2E4D&text_color=ffffff&icon_color=FF2E4D&bg_color=0d1117&border_color=E50914" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=dark&title_color=FF2E4D&text_color=ffffff&icon_color=FF2E4D&bg_color=0d1117&border_color=E50914" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xenosnv&show_icons=true&theme=dark&title_color=FF2E4D&text_color=ffffff&icon_color=FF2E4D&bg_color=0d1117&border_color=E50914" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenosnv&layout=compact&theme=dark&title_color=FF2E4D&text_color=ffffff&icon_color=FF2E4D&bg_color=0d1117&border_color=E50914" />
 </div>
