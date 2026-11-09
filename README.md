@@ -8,7 +8,7 @@
 
 <!-- 2. Typing Animation Title -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF2E4D&center=true&vCenter=true&width=600&height=50&lines=MOCH+NAUFAL+AR+KARIM;FULL-STACK+WEB+DEVELOPER" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF2E4D&center=true&vCenter=true&width=600&height=50&lines=UI%2FUX+DESIGNER;FULL-STACK+WEB+DEVELOPER" alt="Typing Header" />
 </a>
 
 <p align="center">
