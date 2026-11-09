@@ -1,8 +1,6 @@
 <div align="center">
 
 <!-- 1. Banner Utama -->
-<img src="./GITHUB BANNER.jpg" width="100%" alt="Moch Naufal Ar Karim Header Banner" />
-
 <br/><img width="1200" height="300" alt="GITHUB BANNER" src="https://github.com/user-attachments/assets/cf771116-026c-4b31-a8a5-e5478b8cbb80" />
 
 <br/>
