@@ -47,6 +47,9 @@
 ### GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xenosnv&show_icons=true&theme=dark&title_color=FF2E4D&icon_color=FF2E4D&text_color=ffffff&bg_color=0d1117&border_color=E50914" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xenosnv&layout=compact&theme=dark&title_color=FF2E4D&icon_color=FF2E4D&text_color=ffffff&bg_color=0d1117&border_color=E50914" alt="Top Languages" />
+  <!-- GitHub Streak Stats (Sangat Stabil & Bebas Rate Limit) -->
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=xenosnv&theme=dark&background=0D1117&border=E50914&stroke=FF2E4D&ring=FF2E4D&fire=FF2E4D&currStreakLabel=FF2E4D" alt="GitHub Streak" />
+  
+  <!-- Top Languages (Endpoint Alternative Anuraghazra Mirror) -->
+  <img height="165" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=xenosnv&layout=compact&theme=dark&title_color=FF2E4D&icon_color=FF2E4D&text_color=ffffff&bg_color=0d1117&border_color=E50914" alt="Top Languages" />
 </div>
