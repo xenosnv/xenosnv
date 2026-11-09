@@ -47,9 +47,11 @@
 ### GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Streak Stats (Sangat Stabil & Bebas Rate Limit) -->
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=xenosnv&theme=dark&background=0D1117&border=E50914&stroke=FF2E4D&ring=FF2E4D&fire=FF2E4D&currStreakLabel=FF2E4D" alt="GitHub Streak" />
-  
-  <!-- Top Languages (Endpoint Alternative Anuraghazra Mirror) -->
-  <img height="165" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=xenosnv&layout=compact&theme=dark&title_color=FF2E4D&icon_color=FF2E4D&text_color=ffffff&bg_color=0d1117&border_color=E50914" alt="Top Languages" />
+  <!-- GitHub Profile Trophy / Stats alternative -->
+  <img src="https://github-profile-trophy.vercel.app/?username=xenosnv&theme=flat&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" />
+
+  <br/><br/>
+
+  <!-- GitHub Activity Graph (Sangat stabil & tahan Rate Limit) -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xenosnv&theme=react-dark&bg_color=0D1117&color=FF2E4D&line=E50914&point=FFFFFF&area=true&hide_border=false" alt="Activity Graph" />
 </div>
