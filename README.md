@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-<!-- 2. Typing Animation Title -->
+<!-- 2. Typing Animation Title (Kustom Red Theme) -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF2E4D&center=true&vCenter=true&width=600&height=50&lines=MOCH+NAUFAL+AR+KARIM;FULL-STACK+WEB+DEVELOPER" alt="Typing Header" />
 </a>
@@ -30,7 +30,7 @@
 
 ---
 
-### Tech Stack & Tools
+<h3 align="center">Tech Stack & Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FF2E4D" alt="Next.js" />
@@ -44,7 +44,7 @@
 
 ---
 
-### GitHub Analytics
+<h3 align="center">GitHub Analytics</h3>
 
 <div align="center">
   <br/>
