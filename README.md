@@ -47,11 +47,11 @@
 ### GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Profile Trophy / Stats alternative -->
-  <img src="https://github-profile-trophy.vercel.app/?username=xenosnv&theme=flat&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" />
+  <!-- Activity Graph via Ashutosh00710 (Alternative Mirror) -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xenosnv&theme=github-dark&bg_color=0D1117&color=FF2E4D&line=E50914&point=FFFFFF" alt="Activity Graph" />
 
   <br/><br/>
 
-  <!-- GitHub Activity Graph (Sangat stabil & tahan Rate Limit) -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xenosnv&theme=react-dark&bg_color=0D1117&color=FF2E4D&line=E50914&point=FFFFFF&area=true&hide_border=false" alt="Activity Graph" />
+  <!-- GitHub Metrics Summary Card (Sangat Stabil) -->
+  <img src="https://metrics.lecoq.io/xenosnv?template=classic&config.timezone=Asia%2FJakarta" alt="Metrics" width="100%" />
 </div>
